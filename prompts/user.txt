@@ -1,0 +1,14 @@
+Los het volgende taalkundige raadsel op. Het bevat 3 aanwijzingen en het antwoord is één woord dat daarop van toepassing is.
+
+Geef alleen het antwoord zelf in JSON. Geen uitleg, geen markdown, geen extra sleutels.
+
+Het antwoord moet Nederlands zijn, niet Engels.
+
+Het JSON-formaat moet exact zijn: {"answer": "<antwoord>"}
+
+Als er meerdere geldige opties zijn, kies dan je beste gok.
+
+Als je toch redeneert, eindig dan met een aparte regel: Answer: <antwoord>
+
+Vraag: {puzzle}. Wat is het?
+Antwoord:
